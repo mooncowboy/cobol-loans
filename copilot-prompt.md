@@ -1,1 +1,0 @@
-Convert the loan.cob cobol program to .net 9. Create the .net required files in the newversion folder
